@@ -1,0 +1,7 @@
+name: test-environment
+channels:
+  - anaconda
+  - defaults
+
+dependencies:
+  - pytest
